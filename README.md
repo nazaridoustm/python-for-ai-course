@@ -48,8 +48,8 @@ The full course book in Persian (628 pages, all lectures, glossaries and noteboo
 
 ### Video lessons
 Two sessions of the course are also available as video lessons (in Persian) on Aparat:
-- ▶️ [VIDEO 1 TITLE](VIDEO_1_LINK)
-- ▶️ [VIDEO 2 TITLE](VIDEO_2_LINK)
+- ▶️ [Video lesson 1](https://www.aparat.com/v/tmv9b0k?playlist=26355413)
+- ▶️ [Video lesson 2](https://www.aparat.com/v/bgmd1p6)
 
 ### How to run
 1. Install [Anaconda](https://www.anaconda.com/download) (recommended) or Python 3.10+.
@@ -82,8 +82,8 @@ Two sessions of the course are also available as video lessons (in Persian) on A
 
 ### ویدیوهای آموزشی
 دو جلسه از دوره به‌صورت ویدیوی آموزشی در آپارات هم در دسترس است:
-- ▶️ [عنوان ویدیو ۱](VIDEO_1_LINK)
-- ▶️ [عنوان ویدیو ۲](VIDEO_2_LINK)
+- ▶️ [ویدیوی آموزشی ۱](https://www.aparat.com/v/tmv9b0k?playlist=26355413)
+- ▶️ [ویدیوی آموزشی ۲](https://www.aparat.com/v/bgmd1p6)
 
 ### نحوهٔ اجرا
 ۱. [Anaconda](https://www.anaconda.com/download) (پیشنهادی) یا پایتون ۳٫۱۰ به بالا را نصب کنید.
