@@ -44,7 +44,7 @@ Every notebook is **executed and includes its outputs**, and runs from top to bo
 | 21 | [session21-AIMA-Search](04-aima-search/session21-AIMA-Search.ipynb) | Agents and search: BFS, UCS, DFS, IDS, A* |
 
 ### Course book
-The full course book in Persian (628 pages, all lectures, glossaries and notebooks): [`book/Python-for-AI-Course-Book-Dr-Nazaridoust.pdf`](book/Python-for-AI-Course-Book-Dr-Nazaridoust.pdf)
+The full course book in Persian (all lectures with detailed cell-by-cell explanations, industrial and AI applications, exercises and a glossary in every chapter) is available for purchase on [nazaridoost.info](https://nazaridoost.info).
 
 ### How to run
 1. Install [Anaconda](https://www.anaconda.com/download) (recommended) or Python 3.10+.
@@ -73,7 +73,7 @@ The full course book in Persian (628 pages, all lectures, glossaries and noteboo
 فهرست کامل نوت‌بوک‌ها در جدول بخش انگلیسی آمده است.
 
 ### کتاب دوره
-کتاب کامل دوره به فارسی (۶۲۸ صفحه، شامل همهٔ درس‌ها، واژه‌نامه‌ها و نوت‌بوک‌ها) در پوشهٔ `book` قرار دارد.
+کتاب کامل دوره به فارسی، شامل همهٔ درس‌ها با توضیح سلول‌به‌سلول، کاربردهای صنعتی و هوش مصنوعی، تمرین‌ها و واژه‌نامهٔ تخصصی هر فصل، برای خرید در وب‌سایت [nazaridoost.info](https://nazaridoost.info) در دسترس است.
 
 ### نحوهٔ اجرا
 ۱. [Anaconda](https://www.anaconda.com/download) (پیشنهادی) یا پایتون ۳٫۱۰ به بالا را نصب کنید.
