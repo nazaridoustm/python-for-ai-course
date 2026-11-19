@@ -1,7 +1,7 @@
 # Python for AI | آموزش پایتون برای هوش مصنوعی
 
 **Dr. Maryam Nazaridoust | دکتر مریم نظری دوست**
-📧 nazaridoustm@gmail.com · 🌐 [maryamnazaridoost.info](https://maryamnazaridoost.info)
+📧 nazaridoustm@gmail.com · 🌐 [nazaridoost.info](https://nazaridoost.info)
 
 ---
 
